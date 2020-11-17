@@ -27,7 +27,6 @@ void setShape(String aShape) {
 //Method to Cut Out Shapes
 void cutOut(String shape, int number){
   System.out.println(+number+ " cookies were cut into " +shape);
-  // Cookie.setNumber(number);
 }
 
 //Method to Decorate Cookies

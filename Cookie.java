@@ -1,5 +1,5 @@
 class Cookie {
-  int number;
+  private int number;
   private int bakeTemp;
   private int bakeTime;
   boolean isReady;
